@@ -1,0 +1,9 @@
+; SPDX-FileCopyrightText: 2021 Samuel Cabrero <samuel@orica.es>
+;
+; SPDX-License-Identifier: CC0-1.0
+
+- Switch to better auth, store a shared secret in tag memory protected by key
+- Add a PIR motion sensor
+- Add a LiPo battery to cope with power cuts
+- Add a second relay to drive a 220v alarm buzzer?
+- Smaller PCB

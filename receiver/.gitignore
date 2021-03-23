@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2021 Samuel Cabrero <samuel@orica.es>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+.pio
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
